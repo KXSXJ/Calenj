@@ -1,6 +1,6 @@
-##캘린제이(CalenJ)
+## 캘린제이(CalenJ)
 
-###프로젝트 소개
+### 프로젝트 소개
 캘린더 및 실시간 채팅으로 개인 및 그룹 일정을 관리할 수 있는 사이트
 
 개발 기간 : 2024/01 ~ 2024/09
@@ -9,19 +9,19 @@
 
 ---
 
-###사용 기술 & 라이브러리 
+### 사용 기술 & 라이브러리 
 
-####Back-end
+#### Back-end
 
 Spring Boot, JPA, Spring Security, Jwt, web-socket
 
 
-####front-end
+#### front-end
 
 JavaScript, TypeScript, React, React-query, Redux, Redux-saga, sockJs, StyledComponent
 
 
-###핵심 기술
+### 핵심 기술
 + Spring Security + JWT를 활용한 사용자 인증 구현
 +  redux-sag + middleware를 활용한 웹 소켓 관리
 +  fullCalendar + rrule 라이브러리를 활용한 일정 관리
@@ -29,7 +29,7 @@ JavaScript, TypeScript, React, React-query, Redux, Redux-saga, sockJs, StyledCom
 +  IntersectionObserver + react-infinity-query를 무한 스크롤 기능
 
 
-###담당한 부분
+### 담당한 부분
 +  전체적인 화면UI 디자인 및 구현
 +  FSD파일구조 채택, 컴포넌트 분리
 +  redux-saga를 활용한 웹소켓 연결 및 데이터 파싱
