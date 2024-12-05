@@ -11,11 +11,11 @@
 
 ### 사용 기술 & 라이브러리 
 
-#### _Back-end_:
+#### _Back-end_
 Spring Boot, JPA, Spring Security, Jwt, web-socket
 
 
-#### _front-end_ :
+#### _front-end_ 
 JavaScript, TypeScript, React, React-query, Redux, Redux-saga, sockJs, StyledComponent
 
 
