@@ -45,7 +45,7 @@ JavaScript, TypeScript, React, React-query, Redux, Redux-saga, sockJs, StyledCom
 
 ### ⚠️ 트러블 슈팅
 
-1. 웹소켓 연결 및 해제
+#### 웹소켓 연결 및 해제
 
 🚨 발생한 문제 
 
@@ -79,7 +79,7 @@ saga의 여러 effect를 활용하여 여러 Task를 관리 및 데이터 파싱
 
 
 
-2. 반복적인 랜더링링
+#### 반복적인 랜더링링
 
 🚨 발생한 문제 
 
