@@ -71,7 +71,9 @@ export function* initializeStompChannel(){
 
 
 [git-code](https://github.com/KXSXJ/Calenj/blob/master/Calenj/src/main/front/src/entities/redux/model/module/StompMiddleware.tsx)
+
 [redux-middleware 노션정리](https://www.notion.so/d3b9afa7480448ce9340a54a7aabbfca?v=8f87ec9d17fa4b39bf937e61ff5781f7&p=ca3a18b1197145918a2a884d3abaf859&pm=s)
+
 [redux-saga 노션정리](https://www.notion.so/d3b9afa7480448ce9340a54a7aabbfca?v=8f87ec9d17fa4b39bf937e61ff5781f7&p=12bdb93d2b3444bfb00c0e6fe4d47520&pm=s)
 
 💡**문제를 통해 알게 된 것**
