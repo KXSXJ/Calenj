@@ -11,14 +11,14 @@
 
 ### 사용 기술 & 라이브러리 
 
-#### Back-end
-
+#### _Back-end_:
 Spring Boot, JPA, Spring Security, Jwt, web-socket
 
 
-#### front-end
-
+#### _front-end_ :
 JavaScript, TypeScript, React, React-query, Redux, Redux-saga, sockJs, StyledComponent
+
+
 
 
 ### 핵심 기술
@@ -27,6 +27,8 @@ JavaScript, TypeScript, React, React-query, Redux, Redux-saga, sockJs, StyledCom
 +  fullCalendar + rrule 라이브러리를 활용한 일정 관리
 +  react-query를 활용한 데이터 캐싱 및 관리
 +  IntersectionObserver + react-infinity-query를 무한 스크롤 기능
+
+
 
 
 ### 담당한 부분
