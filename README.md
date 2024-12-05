@@ -36,7 +36,7 @@ JavaScript, TypeScript, React, React-query, Redux, Redux-saga, sockJs, StyledCom
 +  fullCalender를 활용한 캘린더 기능제작
 +  채팅 + 무한스크롤 구현
 +  반응형 페이지 제작
-+  
+  
 
 
 
@@ -72,12 +72,11 @@ export function* initializeStompChannel(){
 💡**문제를 통해 알게 된 것**
 
 제네레이터 함수를 통해 비동기 처리를 할 수 있게 되었으며 redux-saga를 통한 비동기 처리 및 데이터 파싱에 대해 깊게 이해할 수 있었습니다.
-
 saga의 여러 effect를 활용하여 여러 Task를 관리 및 데이터 파싱을 할 수 있게 되었습니다.
 
 
 
-2. 개인 및 그룹 메시지
+2. 반복적인 랜더링링
 
 🚨 발생한 문제 
 상위 컴포넌트의 업데이트로 인해 하위 컴포넌트의 불필요한 렌더링이 발생했습니다.
