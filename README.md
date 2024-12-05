@@ -43,7 +43,7 @@ JavaScript, TypeScript, React, React-query, Redux, Redux-saga, sockJs, StyledCom
 
 ---
 
-###⚠️ 트러블 슈팅
+### ⚠️ 트러블 슈팅
 
 1. 웹소켓 연결 및 해제
 🚨 발생한 문제 
